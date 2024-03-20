@@ -13,8 +13,8 @@ Final Score = Score * %attendance
 > [!NOTE]
 > * หากต้องการที่จะอ่านให้ใช้ KKUmail **only!!**
 > * สไลด์ที่เรียนทั้งหมด : [cilk here](https://drive.google.com/drive/folders/1oD-8_MrSv2Qjhp1-_MNH3M7XOoTN4WBn?usp=sharing)
-> * พื้นที่เก็บ data ทั้งหมด :[cilk here](https://drive.google.com/drive/folders/1Lr7xTajoSRJWtMdgcHcOaAF1EVN7lKW8?usp=sharing)
-> * เอกสารการติวเเละของเพื่อนทั้งหมด : [cilk here](https://drive.google.com/drive/folders/1xSIel0VA1zbbcEWUnWbm7Ad6J_UJlcBg?usp=sharing)
+> * พื้นที่เก็บ data ทั้งหมด :[cilk here](https://drive.google.com/drive/folders/1xSIel0VA1zbbcEWUnWbm7Ad6J_UJlcBg?usp=sharing)
+> * เอกสารการติวเเละของเพื่อนทั้งหมด : [cilk here](https://drive.google.com/drive/folders/1Lr7xTajoSRJWtMdgcHcOaAF1EVN7lKW8?usp=sharing)
 # กิจกรรมการเรียนในเเต่ละวัน
 ## 22/11/2023
 วันนี้เขียนโค้ด + เรียนในห้องเรื่องระยะห่างระหว่างจุด(เพิ่ม)
