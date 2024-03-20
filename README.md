@@ -37,7 +37,6 @@ Final Score = Score * %attendance
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 (me)
 * สไลด์ HW1 : [สไลด์ HW1](https://www.canva.com/design/DAF5jQJE09E/9XMb7svCu-kPgGlT-BVYTg/view?utm_content=DAF5jQJE09E&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * code HW1 : [code HW1](https://github.com/MOOwuttichai/BSC_DPDM2023/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
-# กลุ่ม project data mining
 # HW2
 * HW2_PDF : [HW2_PDF](https://github.com/MOOwuttichai/BSC_DPDM2023/blob/main/HW2_643020521-0_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%20%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B2.pdf)
 # กลุ่ม HW3 เเละ HW4 decision tree parameters
@@ -48,7 +47,7 @@ Final Score = Score * %attendance
 * HW4_เขียนมือ : [HW4_เขียนมือ](https://github.com/MOOwuttichai/BSC_DPDM2023/blob/main/HW4_Calculate_DicisionTree.pdf)
 # HW5
 * HW5_PDF : [HW5_PDF](https://github.com/MOOwuttichai/BSC_DPDM2023/blob/main/HW5_ANN.pdf)
-# Project
+# กลุ่ม project data mining
 ✨ สมาชิกกลุ่ม ✨
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
