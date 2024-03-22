@@ -30,8 +30,10 @@ Final Score = Score * %attendance
 สัปดาห์หน้ายกคลาส เจอกันอีกที 13 ธ.ค.2566
 ## 17/1/2024 
 การเรียน Decision Trees เเละการบ้าน HW2
+## 11/2/2024
+สอบกลางภาค
 ## 20/3/2024
-ทำการสอบ ปลายภาย
+สอบ ปลายภาค
 # code สำหรับทำการสอบกลางภาค : [cilk here](https://github.com/MOOwuttichai/BSC_DPDM2023/blob/main/midterm_bscdpdm23.ipynb)
 # กลุ่ม HW1 Frequent Item Set & Association Rules
 - Data Set: reduced_marketbasket
